@@ -1,2 +1,2 @@
 # CODSOFT
-This repository contain all 3 tasks given by CODSOFT of Python Programming for Internship.
+This repository contain all 3 tasks of Python Programming given by CODSOFT for Internship.
